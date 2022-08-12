@@ -1,0 +1,15 @@
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.csproj.AssemblyReference.cache
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.AssemblyInfoInputs.cache
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.AssemblyInfo.cs
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.csproj.CoreCompileInputs.cache
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\bin\Debug\net6\advanced.exe
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\bin\Debug\net6\advanced.deps.json
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\bin\Debug\net6\advanced.runtimeconfig.json
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\bin\Debug\net6\advanced.dll
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\bin\Debug\net6\advanced.pdb
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.dll
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\refint\advanced.dll
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.pdb
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\advanced.genruntimeconfig.cache
+C:\Users\andre\csharpprojects\Challenges\Fibonacci\obj\Debug\net6\ref\advanced.dll

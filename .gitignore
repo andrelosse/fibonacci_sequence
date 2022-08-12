@@ -1,0 +1,5 @@
+.vscode/
+notes/
+authentication.js
+node-modules
+.DS_Store
